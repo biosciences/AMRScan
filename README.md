@@ -24,7 +24,7 @@
 
 | Scenario                                             | Use R Script (`AMRScan_standalone.R`) | Use Nextflow Workflow (`main.nf`)  |
 |------------------------------------------------------|----------------------------------------|-------------------------------------|
-| Small dataset / one or two samples                   | ✅ Yes                                 | Optional                            |
+| Small dataset / one or two samples                   | ✅ Yes                                 | ✅ Yes                              |
 | Educational / demonstration setting                  | ✅ Yes                                 | ❌ No                               |
 | Quick local prototyping with minimal dependencies    | ✅ Yes                                 | ❌ No                               |
 | Batch processing of many samples                     | ❌ No                                  | ✅ Yes                              |
@@ -58,7 +58,7 @@ Ensure the above requried R, R packages and NCBI BLAST+ are installed.
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/AMRScanR.git
+git clone https://github.com/biosciences/AMRScanR.git
 cd AMRScanR
 ```
 

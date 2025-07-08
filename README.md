@@ -6,7 +6,7 @@
 
 ## 📄 Project Links
 - 💻 [View Source Code on GitHub](https://github.com/biosciences/AMRScan): Explore the full repository
-- 🧬 [Live Report (GitHub Pages)](https://biosciences.github.io/MicroTrace/MicroTrace_Report.html): View the interactive HTML output
+- 🧬 [Live Report (GitHub Pages)](https://biosciences.github.io/AMRScan/index.html): View the interactive HTML output
 
 ---
 

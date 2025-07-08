@@ -33,11 +33,11 @@
 
 ## ✅ How the files are used in the dual-mode setup
 
-| File              | Role                                                    | Executed by Nextflow? | Executed in R? |
-|-------------------|---------------------------------------------------------|-----------------------|----------------|
-| `AMRScan.R`       | Full R script version (standalone)                      | ❌ No                 | ✅ Yes         |
-| `AMRScan.nf`      | Nextflow pipeline script (main workflow logic)          | ✅ Yes                | ❌ No          |
-| `nextflow.config` | Configuration file for resource settings and parameters | ✅ Yes                | ❌ No          |
+| File              | Role                                                    | Executed in R? | Executed by Nextflow? |
+|-------------------|---------------------------------------------------------|----------------|-----------------------|
+| `AMRScan.R`       | Full R script version (standalone)                      | ✅ Yes         | ❌ No                 |
+| `AMRScan.nf`      | Nextflow pipeline script (main workflow logic)          | ❌ No          | ✅ Yes                |
+| `nextflow.config` | Configuration file for resource settings and parameters | ❌ No          | ✅ Yes                |
 
 ---
 ## 🚀 Usage

@@ -9,12 +9,12 @@ tags:
   - reproducibility
 authors:
   - name: Kaitao Lai
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0002-9420-9352
     affiliation: 1
 affiliations:
-  - name: Sydney Infectious Diseases Institute, The University of Sydney, Australia
+  - name: The University of Sydney
     index: 1
-date: 2025-07-XX
+date: 2025-07-08
 bibliography: paper.bib
 ---
 

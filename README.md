@@ -4,6 +4,12 @@
 
 ---
 
+## 📄 Project Links
+- 💻 [View Source Code on GitHub](https://github.com/biosciences/AMRScan): Explore the full repository
+- 🧬 [Live Report (GitHub Pages)](https://biosciences.github.io/MicroTrace/MicroTrace_Report.html): View the interactive HTML output
+
+---
+
 ## 🚀 Features
 
 - Antimicrobial resistance gene detection using BLAST
@@ -64,7 +70,8 @@ cd AMRScanR
 
 Install dependencies in R:
 ```r
-install.packages(c("ShortRead", "Biostrings", "dplyr", "RCurl"))
+install.packages(c("dplyr", "RCurl"))
+BiocManager::install(c("ShortRead", "Biostrings"))
 ```
 
 Run

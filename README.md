@@ -29,7 +29,7 @@
 
 ## 🤔 When to Use Which Version?
 
-| Scenario                                             | Use R Script (`AMRScan_standalone.R`) | Use Nextflow Workflow (`main.nf`)  |
+| Scenario                                             | Use R Script (`AMRScan.R`) | Use Nextflow Workflow (`AMRScan.nf`)  |
 |------------------------------------------------------|----------------------------------------|-------------------------------------|
 | Small dataset / one or two samples                   | ✅ Yes                                 | ✅ Yes                              |
 | Educational / demonstration setting                  | ✅ Yes                                 | ❌ No                               |

@@ -123,7 +123,7 @@ AMRScan/
 ├── AMRScan_R.Rmd               # R Markdown for live demo
 ├── data/                       # Input FASTA file(s)
 │   └── GCF_037966445.1_ASM3796644v1_genomic.fna
-├── db/                    # BLAST database folder
+├── db/                         # BLAST database folder
 │   └── protein_fasta_protein_homolog_model.fasta
 ├── DESCRIPTION                 # Package or metadata description
 ├── docs/                       # GitHub Pages rendered site

@@ -9,6 +9,8 @@
 - 🧬 [Live Report (GitHub Pages)](https://biosciences.github.io/AMRScan/AMRScan_R.html): AMRScan - R Demonstration
 - 🧬 [Live Report (GitHub Pages)](https://biosciences.github.io/AMRScan/AMRScan_Nextflow.html): AMRScan - Nextflow Workflow Demonstration
 
+The two reports presented above were produced using AMRScan_R.Rmd and AMRScan_Nextflow.Rmd, providing comprehensive examples of the workflow with sample input files, result parsing, and final summaries.
+
 ---
 
 ## 🚀 Features
@@ -179,16 +181,6 @@ Uncompress above tar.bz2 file, copy protein_fasta_protein_homolog_model.fasta to
 |----------------------|-------------|----------|--------|----------|----------|-------------------------------|
 | NZ_JBBPBW010000028.1 | ARO:3003039 | 40.839   | 453    | 1.55e-72 | 252      | OprA [Pseudomonas aeruginosa] |
 | NZ_JBBPBW010000035.1 | ARO:3004826 | 100.000  | 285    | 0        | 587      | LAP-2 [Enterobacter cloacae]  |
-
----
-
-## 📊 Live Report
-
-An interactive demonstration of AMRScan can be viewed here:
-
-👉 [View the AMRScan Demo Report](https://your-username.github.io/AMRScan/)
-
-This report is generated from `AMRScan.Rmd` and showcases a complete run-through using example input files, result parsing, and summary.
 
 ---
 

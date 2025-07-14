@@ -198,7 +198,7 @@ source("tests/test-run.R")
 If you use **AMRScan** in your research, please cite the associated JOSS paper (under review):
 
 ```
-Lai, K. (2025). AMRScan: A hybrid R and Nextflow toolkit for rapid antimicrobial resistance gene detection. Journal of Open Source Software. (under review)
+Lai, K. (2025). *AMRScan: A hybrid R and Nextflow toolkit for rapid antimicrobial resistance gene detection*. arXiv: https://arxiv.org/abs/2507.08062 (submitted to *Journal of Open Source Software*).
 ```
 
 ---
